@@ -1,0 +1,24 @@
+html,
+body {
+  height: 100%;
+}
+.color-red {
+  color: #e90a0a;
+}
+.text-rigth {
+  text-align: right;
+}
+.ptb20 {
+  padding: 20px 0;
+}
+.bge-page {
+  width: 100%;
+}
+.bge-page .bge-table .el-table .el-table__header-wrapper tr {
+  height: 48px;
+  background: #f5f7fa;
+}
+.bge-page .bge-pagination {
+  text-align: right;
+  padding: 40px 0;
+}
